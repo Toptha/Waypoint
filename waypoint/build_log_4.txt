@@ -1,0 +1,26 @@
+﻿Building Windows application...                                 
+flutter : lib/core/route/app_router.dart(32,30): error GD65BB2B6: The getter 
+'valueOrNull' isn't defined for the type 'AsyncValue<UserModel?>'. [C:\Users\preet\OneDri
+ve\Documents\AntiGravity\App\Waypoint\waypoint\build\windows\x64\flutter\flutter_assemble
+.vcxproj]
+At line:1 char:1
++ flutter build windows 2>&1 | Out-File -Encoding utf8 build_log_4.txt
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (lib/core/route/...semble.vcxproj]:String) [ 
+   ], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+lib/features/hr/hr_job_detail_screen.dart(81,44): error GD65BB2B6: The getter 
+'hrRepositoryProvider' isn't defined for the type 'HrJobDetailScreen'. [C:\Users\preet\On
+eDrive\Documents\AntiGravity\App\Waypoint\waypoint\build\windows\x64\flutter\flutter_asse
+mble.vcxproj]
+C:\Program Files (x86)\Microsoft Visual 
+Studio\2019\BuildTools\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): 
+error MSB8066: Custom build for 'C:\Users\preet\OneDrive\Documents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x64\CMakeFiles\6f8ed7db992663ed4d85a89b1e949616\flutter_windows
+.dll.rule;C:\Users\preet\OneDrive\Documents\AntiGravity\App\Waypoint\waypoint\build\windo
+ws\x64\CMakeFiles\e01f4a1a29a0a17802f64ff1814f5194\flutter_assemble.rule' exited with 
+code 1. [C:\Users\preet\OneDrive\Documents\AntiGravity\App\Waypoint\waypoint\build\window
+s\x64\flutter\flutter_assemble.vcxproj]
+Building Windows application...                                    19.7s
+Build process failed.

@@ -1,0 +1,6 @@
+﻿Running build hooks...Running build hooks...  0s riverpod_generator on 26 inputs; lib/core/route/app_router.dart
+  16s riverpod_generator on 26 inputs: 1 same; spent 12s┬áanalyzing, 3s┬áresolving; lib/core/utils/supabase_provider.dart
+  16s riverpod_generator on 26 inputs: 24 skipped, 1 output, 1 same; spent 12s┬áanalyzing, 3s┬áresolving
+  0s source_gen:combining_builder on 26 inputs; lib/core/route/app_router.dart
+  0s source_gen:combining_builder on 26 inputs: 24 skipped, 1 output, 1 same
+  Built with build_runner/jit in 18s; wrote 4 outputs.

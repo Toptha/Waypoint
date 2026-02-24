@@ -1,0 +1,8 @@
+﻿Running build hooks...Running build hooks...  0s riverpod_generator on 26 inputs; lib/core/route/app_router.dart
+  0s riverpod_generator on 26 inputs: 1 skipped; lib/core/utils/supabase_provider.dart
+  0s riverpod_generator on 26 inputs: 26 skipped
+  0s source_gen:combining_builder on 26 inputs; lib/core/route/app_router.dart
+  0s source_gen:combining_builder on 26 inputs: 26 skipped
+E riverpod_generator on lib/features/auth/data/auth_controller.dart:
+  InvalidTypeException: The type is invalid and cannot be converted to code.
+  Failed to build with build_runner/jit in 2s; wrote 0 outputs.

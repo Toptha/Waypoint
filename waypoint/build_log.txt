@@ -1,0 +1,1788 @@
+﻿Resolving dependencies...
+Downloading packages...
+  _fe_analyzer_shared 93.0.0 (96.0.0 available)
+  analyzer 10.0.1 (10.2.0 available)
+  app_links 6.4.1 (7.0.0 available)
+  meta 1.17.0 (1.18.1 available)
+  win32 5.15.0 (6.0.0 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Building Windows application...                                 
+flutter : CUSTOMBUILD : 
+error : Couldn't resolve 
+the package 'intl' in 
+'package:intl/intl.dart'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+At line:1 char:1
++ flutter build windows 
+2>&1 | Out-File -Encoding 
+utf8 build_log.txt
++ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecified: (CUS  
+  TOMBUILD : e...semble.   
+ vcxproj]:String) [], R    
+emoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+lib/core/route/app_router.d
+art(14,6): error 
+GBB7C8005: Error when 
+reading 'lib/core/route/app
+_router.g.dart': The 
+system cannot find the 
+file specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/auth/data/auth
+_controller.dart(2,8): 
+error GBB7C8005: Error 
+when reading 'lib/features/
+models/user_model.dart': 
+The system cannot find the 
+path specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/auth/data/auth
+_controller.dart(5,6): 
+error GBB7C8005: Error 
+when reading 'lib/features/
+auth/data/auth_controller.g
+.dart': The system cannot 
+find the file specified [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/applicant/appl
+icant_dashboard.dart(5,8): 
+error GBB7C8005: Error 
+when reading 'lib/auth/data
+/auth_controller.dart': 
+The system cannot find the 
+path specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/hr/hr_dashboar
+d.dart(4,8): error 
+GBB7C8005: Error when 
+reading 'lib/auth/data/auth
+_controller.dart': The 
+system cannot find the 
+path specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/interviewer/in
+terviewer_dashboard.dart(5,
+8): error GBB7C8005: Error 
+when reading 'lib/auth/data
+/auth_controller.dart': 
+The system cannot find the 
+path specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/interviewer/in
+terviewer_dashboard.dart(4,
+8): error GDA81338A: Not 
+found: 
+'package:intl/intl.dart' [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/auth/data/auth
+_repository.dart(6,6): 
+error GBB7C8005: Error 
+when reading 'lib/features/
+auth/data/auth_repository.g
+.dart': The system cannot 
+find the file specified [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+8,6): error GBB7C8005: 
+Error when reading 'lib/fea
+tures/applicant/data/applic
+ant_controller.g.dart': 
+The system cannot find the 
+file specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(7,6): error 
+GBB7C8005: Error when 
+reading 'lib/features/hr/da
+ta/hr_controller.g.dart': 
+The system cannot find the 
+file specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(6,6): error GBB7C8005: 
+Error when reading 'lib/fea
+tures/interviewer/data/inte
+rviewer_controller.g.dart':
+ The system cannot find 
+the file specified [C:\User
+s\preet\OneDrive\Documents\
+AntiGravity\App\Waypoint\wa
+ypoint\build\windows\x64\fl
+utter\flutter_assemble.vcxp
+roj]
+lib/core/utils/supabase_pro
+vider.dart(4,6): error 
+GBB7C8005: Error when 
+reading 'lib/core/utils/sup
+abase_provider.g.dart': 
+The system cannot find the 
+file specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_repository.dart(
+8,6): error GBB7C8005: 
+Error when reading 'lib/fea
+tures/applicant/data/applic
+ant_repository.g.dart': 
+The system cannot find the 
+file specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/hr/data/hr_rep
+ository.dart(8,6): error 
+GBB7C8005: Error when 
+reading 'lib/features/hr/da
+ta/hr_repository.g.dart': 
+The system cannot find the 
+file specified [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_repository.d
+art(7,6): error GBB7C8005: 
+Error when reading 'lib/fea
+tures/interviewer/data/inte
+rviewer_repository.g.dart':
+ The system cannot find 
+the file specified [C:\User
+s\preet\OneDrive\Documents\
+AntiGravity\App\Waypoint\wa
+ypoint\build\windows\x64\fl
+utter\flutter_assemble.vcxp
+roj]
+lib/core/route/app_router.d
+art(14,6): error 
+GF2BD9131: Can't use 'lib/c
+ore/route/app_router.g.dart
+' as a part, because it 
+has no 'part of' 
+declaration. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/auth/data/auth
+_controller.dart(5,6): 
+error GF2BD9131: Can't use 
+'lib/features/auth/data/aut
+h_controller.g.dart' as a 
+part, because it has no 
+'part of' declaration. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/auth/data/auth
+_repository.dart(6,6): 
+error GF2BD9131: Can't use 
+'lib/features/auth/data/aut
+h_repository.g.dart' as a 
+part, because it has no 
+'part of' declaration. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+8,6): error GF2BD9131: 
+Can't use 'lib/features/app
+licant/data/applicant_contr
+oller.g.dart' as a part, 
+because it has no 'part 
+of' declaration. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/hr/data/hr_con
+troller.dart(7,6): error 
+GF2BD9131: Can't use 'lib/f
+eatures/hr/data/hr_controll
+er.g.dart' as a part, 
+because it has no 'part 
+of' declaration. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(6,6): error GF2BD9131: 
+Can't use 'lib/features/int
+erviewer/data/interviewer_c
+ontroller.g.dart' as a 
+part, because it has no 
+'part of' declaration. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/core/utils/supabase_pro
+vider.dart(4,6): error 
+GF2BD9131: Can't use 'lib/c
+ore/utils/supabase_provider
+.g.dart' as a part, 
+because it has no 'part 
+of' declaration. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/applicant/data
+/applicant_repository.dart(
+8,6): error GF2BD9131: 
+Can't use 'lib/features/app
+licant/data/applicant_repos
+itory.g.dart' as a part, 
+because it has no 'part 
+of' declaration. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/hr/data/hr_rep
+ository.dart(8,6): error 
+GF2BD9131: Can't use 'lib/f
+eatures/hr/data/hr_reposito
+ry.g.dart' as a part, 
+because it has no 'part 
+of' declaration. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/interviewer/da
+ta/interviewer_repository.d
+art(7,6): error GF2BD9131: 
+Can't use 'lib/features/int
+erviewer/data/interviewer_r
+epository.g.dart' as a 
+part, because it has no 
+'part of' declaration. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/core/route/app_router.d
+art(20,20): error 
+G7D2AEF3C: Type 
+'AppRouterRef' not found. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/auth/data/auth
+_controller.dart(8,30): 
+error G7D2AEF3C: Type 
+'_$AuthController' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/auth/data/auth
+_controller.dart(10,12): 
+error G7D2AEF3C: Type 
+'UserModel' not found. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/auth/data/auth
+_repository.dart(94,31): 
+error G7D2AEF3C: Type 
+'AuthRepositoryRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/auth/data/auth
+_repository.dart(99,36): 
+error G7D2AEF3C: Type 
+'AuthStateChangesRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+12,40): error G7D2AEF3C: 
+Type 'OpenJobsRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+18,47): error G7D2AEF3C: 
+Type 'MyApplicationsRef' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+24,43): error G7D2AEF3C: 
+Type '_$ApplicationSubmitCo
+ntroller' not found. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/hr/data/hr_con
+troller.dart(10,39): error 
+G7D2AEF3C: Type 
+'AllJobsRef' not found. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(15,48): error 
+G7D2AEF3C: Type 
+'JobApplicationsRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(20,47): error 
+G7D2AEF3C: Type 
+'AvailableInterviewersRef' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(25,37): error 
+G7D2AEF3C: Type 
+'_$JobCreationController' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(43,35): error 
+G7D2AEF3C: Type 
+'_$JobUpdateController' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(57,43): error 
+G7D2AEF3C: Type '_$Applicat
+ionUpdateController' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(9,43): error 
+G7D2AEF3C: Type 
+'MyInterviewsRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(14,47): error 
+G7D2AEF3C: Type 
+'InterviewApplicationRef' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(19,38): error 
+G7D2AEF3C: Type 'InterviewF
+eedbackStatusRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(24,43): error 
+G7D2AEF3C: Type '_$Intervie
+wFeedbackController' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/core/utils/supabase_pro
+vider.dart(7,31): error 
+G7D2AEF3C: Type 
+'SupabaseClientRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_repository.dart(
+67,41): error G7D2AEF3C: 
+Type 
+'ApplicantRepositoryRef' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/hr/data/hr_rep
+ository.dart(87,27): error 
+G7D2AEF3C: Type 
+'HrRepositoryRef' not 
+found. [C:\Users\preet\OneD
+rive\Documents\AntiGravity\
+App\Waypoint\waypoint\build
+\windows\x64\flutter\flutte
+r_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_repository.d
+art(69,45): error 
+G7D2AEF3C: Type 
+'InterviewerRepositoryRef' 
+not found. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/main.dart(31,30): 
+error GD65BB2B6: The 
+getter 'appRouterProvider' 
+isn't defined for the type 
+'WaypointApp'. [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/core/route/app_router.d
+art(20,20): error 
+GC5D169BD: 'AppRouterRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/core/route/app_router.d
+art(22,31): error 
+GA0A3EB9C: Undefined name 
+'authControllerProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/core/route/app_router.d
+art(27,58): error 
+GA0A3EB9C: Undefined name 
+'authControllerProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/core/route/app_router.d
+art(115,14): error 
+G76A9B1F6: The method 
+'addListener' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/presentat
+ion/login_screen.dart(18,20
+): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_LoginScreenState'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/auth/presentat
+ion/login_screen.dart(26,16
+): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_LoginScreenState'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/auth/presentat
+ion/login_screen.dart(27,16
+): error GD65BB2B6: The 
+getter 'hasError' isn't 
+defined for the type 
+'Object?'. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/auth/presentat
+ion/login_screen.dart(29,39
+): error GD65BB2B6: The 
+getter 'error' isn't 
+defined for the type 
+'Object?'. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/auth/presentat
+ion/login_screen.dart(34,33
+): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_LoginScreenState'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/auth/presentat
+ion/signup_screen.dart(20,2
+0): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_SignUpScreenState'. [C:\U
+sers\preet\OneDrive\Documen
+ts\AntiGravity\App\Waypoint
+\waypoint\build\windows\x64
+\flutter\flutter_assemble.v
+cxproj]
+lib/features/auth/presentat
+ion/signup_screen.dart(30,1
+6): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_SignUpScreenState'. [C:\U
+sers\preet\OneDrive\Documen
+ts\AntiGravity\App\Waypoint
+\waypoint\build\windows\x64
+\flutter\flutter_assemble.v
+cxproj]
+lib/features/auth/presentat
+ion/signup_screen.dart(31,1
+6): error GD65BB2B6: The 
+getter 'hasError' isn't 
+defined for the type 
+'Object?'. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/auth/presentat
+ion/signup_screen.dart(33,3
+9): error GD65BB2B6: The 
+getter 'error' isn't 
+defined for the type 
+'Object?'. [C:\Users\preet\
+OneDrive\Documents\AntiGrav
+ity\App\Waypoint\waypoint\b
+uild\windows\x64\flutter\fl
+utter_assemble.vcxproj]
+lib/features/auth/presentat
+ion/signup_screen.dart(38,3
+3): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_SignUpScreenState'. [C:\U
+sers\preet\OneDrive\Documen
+ts\AntiGravity\App\Waypoint
+\waypoint\build\windows\x64
+\flutter\flutter_assemble.v
+cxproj]
+lib/features/auth/data/auth
+_controller.dart(12,29): 
+error GD65BB2B6: The 
+getter 'ref' isn't defined 
+for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(12,39): 
+error GD65BB2B6: The 
+getter 
+'authStateChangesProvider' 
+isn't defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(16,26): 
+error GD65BB2B6: The 
+getter 'ref' isn't defined 
+for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(16,35): 
+error GD65BB2B6: The 
+getter 
+'authRepositoryProvider' 
+isn't defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(24,5): 
+error GD65BB4FA: The 
+setter 'state' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(26,20): 
+error GD65BB2B6: The 
+getter 'ref' isn't defined 
+for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(26,29): 
+error GD65BB2B6: The 
+getter 
+'authRepositoryProvider' 
+isn't defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(25,5): 
+error GD65BB4FA: The 
+setter 'state' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(39,5): 
+error GD65BB4FA: The 
+setter 'state' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(41,20): 
+error GD65BB2B6: The 
+getter 'ref' isn't defined 
+for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(41,29): 
+error GD65BB2B6: The 
+getter 
+'authRepositoryProvider' 
+isn't defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(40,5): 
+error GD65BB4FA: The 
+setter 'state' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(51,5): 
+error GD65BB4FA: The 
+setter 'state' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(52,11): 
+error GD65BB2B6: The 
+getter 'ref' isn't defined 
+for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(52,20): 
+error GD65BB2B6: The 
+getter 
+'authRepositoryProvider' 
+isn't defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/auth/data/auth
+_controller.dart(53,5): 
+error GD65BB4FA: The 
+setter 'state' isn't 
+defined for the type 
+'AuthController'. [C:\Users
+\preet\OneDrive\Documents\A
+ntiGravity\App\Waypoint\way
+point\build\windows\x64\flu
+tter\flutter_assemble.vcxpr
+oj]
+lib/features/applicant/appl
+icant_dashboard.dart(27,39)
+: error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'_ApplicantDashboardState'.
+ [C:\Users\preet\OneDrive\D
+ocuments\AntiGravity\App\Wa
+ypoint\waypoint\build\windo
+ws\x64\flutter\flutter_asse
+mble.vcxproj]
+lib/features/applicant/appl
+icant_dashboard.dart(49,33)
+: error GD65BB2B6: The 
+getter 'openJobsProvider' 
+isn't defined for the type 
+'_OpenJobsView'. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/applicant/appl
+icant_dashboard.dart(98,24)
+: error GD65BB2B6: The 
+getter 'applicationSubmitCo
+ntrollerProvider' isn't 
+defined for the type 
+'_OpenJobsView'. [C:\Users\
+preet\OneDrive\Documents\An
+tiGravity\App\Waypoint\wayp
+oint\build\windows\x64\flut
+ter\flutter_assemble.vcxpro
+j]
+lib/features/applicant/appl
+icant_dashboard.dart(116,33
+): error GD65BB2B6: The 
+getter 
+'myApplicationsProvider' 
+isn't defined for the type 
+'_MyApplicationsView'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/hr_dashboar
+d.dart(14,33): error 
+GD65BB2B6: The getter 
+'allJobsProvider' isn't 
+defined for the type 
+'HrDashboard'. [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/hr/hr_dashboar
+d.dart(22,39): error 
+GD65BB2B6: The getter 
+'authControllerProvider' 
+isn't defined for the type 
+'HrDashboard'. [C:\Users\pr
+eet\OneDrive\Documents\Anti
+Gravity\App\Waypoint\waypoi
+nt\build\windows\x64\flutte
+r\flutter_assemble.vcxproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(16,33): 
+error GD65BB2B6: The 
+getter 'allJobsProvider' 
+isn't defined for the type 
+'HrJobDetailScreen'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(17,33): 
+error G76A9B1F6: The 
+method 
+'jobApplicationsProvider' 
+isn't defined for the type 
+'HrJobDetailScreen'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(42,28): 
+error GD65BB2B6: The 
+getter 'jobUpdateController
+Provider' isn't defined 
+for the type 
+'HrJobDetailScreen'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(81,44): 
+error GD65BB2B6: The 
+getter 
+'hrRepositoryProvider' 
+isn't defined for the type 
+'HrJobDetailScreen'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(82,52): 
+error G76A9B1F6: The 
+method 
+'jobApplicationsProvider' 
+isn't defined for the type 
+'HrJobDetailScreen'. [C:\Us
+ers\preet\OneDrive\Document
+s\AntiGravity\App\Waypoint\
+waypoint\build\windows\x64\
+flutter\flutter_assemble.vc
+xproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(135,20): 
+error GD65BB2B6: The 
+getter 'applicationUpdateCo
+ntrollerProvider' isn't 
+defined for the type '_Assi
+gnInterviewerDialogState'. 
+[C:\Users\preet\OneDrive\Do
+cuments\AntiGravity\App\Way
+point\waypoint\build\window
+s\x64\flutter\flutter_assem
+ble.vcxproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(142,20): 
+error G76A9B1F6: The 
+method 
+'jobApplicationsProvider' 
+isn't defined for the type 
+'_AssignInterviewerDialogSt
+ate'. [C:\Users\preet\OneDr
+ive\Documents\AntiGravity\A
+pp\Waypoint\waypoint\build\
+windows\x64\flutter\flutter
+_assemble.vcxproj]
+lib/features/hr/hr_job_deta
+il_screen.dart(149,41): 
+error GD65BB2B6: The 
+getter 'availableInterviewe
+rsProvider' isn't defined 
+for the type '_AssignInterv
+iewerDialogState'. [C:\User
+s\preet\OneDrive\Documents\
+AntiGravity\App\Waypoint\wa
+ypoint\build\windows\x64\fl
+utter\flutter_assemble.vcxp
+roj]
+lib/features/hr/hr_job_deta
+il_screen.dart(150,33): 
+error GD65BB2B6: The 
+getter 'applicationUpdateCo
+ntrollerProvider' isn't 
+defined for the type '_Assi
+gnInterviewerDialogState'. 
+[C:\Users\preet\OneDrive\Do
+cuments\AntiGravity\App\Way
+point\waypoint\build\window
+s\x64\flutter\flutter_assem
+ble.vcxproj]
+lib/features/interviewer/in
+terviewer_dashboard.dart(13
+,39): error GD65BB2B6: The 
+getter 
+'myInterviewsProvider' 
+isn't defined for the type 
+'InterviewerDashboard'. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/interviewer/in
+terviewer_dashboard.dart(21
+,39): error GD65BB2B6: The 
+getter 
+'authControllerProvider' 
+isn't defined for the type 
+'InterviewerDashboard'. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/interviewer/in
+terviewer_dashboard.dart(37
+,31): error GD65BB2B6: The 
+getter 'DateFormat' isn't 
+defined for the type 
+'InterviewerDashboard'. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/interviewer/ev
+aluation_screen.dart(23,20)
+: error GD65BB2B6: The 
+getter 'interviewFeedbackCo
+ntrollerProvider' isn't 
+defined for the type 
+'_EvaluationScreenState'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/interviewer/ev
+aluation_screen.dart(35,41)
+: error G76A9B1F6: The 
+method 'interviewFeedbackSt
+atusProvider' isn't 
+defined for the type 
+'_EvaluationScreenState'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/interviewer/ev
+aluation_screen.dart(36,39)
+: error G76A9B1F6: The 
+method 'interviewApplicatio
+nProvider' isn't defined 
+for the type 
+'_EvaluationScreenState'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/interviewer/ev
+aluation_screen.dart(37,33)
+: error GD65BB2B6: The 
+getter 'interviewFeedbackCo
+ntrollerProvider' isn't 
+defined for the type 
+'_EvaluationScreenState'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/auth/data/auth
+_repository.dart(94,31): 
+error GD14730E0: 
+'AuthRepositoryRef' isn't 
+a type. [C:\Users\preet\One
+Drive\Documents\AntiGravity
+\App\Waypoint\waypoint\buil
+d\windows\x64\flutter\flutt
+er_assemble.vcxproj]
+lib/features/auth/data/auth
+_repository.dart(95,35): 
+error GA0A3EB9C: Undefined 
+name 
+'supabaseClientProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/auth/data/auth
+_repository.dart(99,36): 
+error G4D35BCBF: 
+'AuthStateChangesRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/features/auth/data/auth
+_repository.dart(100,20): 
+error GA0A3EB9C: Undefined 
+name 
+'authRepositoryProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+12,40): error GD47AA355: 
+'OpenJobsRef' isn't a 
+type. [C:\Users\preet\OneDr
+ive\Documents\AntiGravity\A
+pp\Waypoint\waypoint\build\
+windows\x64\flutter\flutter
+_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+13,19): error GA0A3EB9C: 
+Undefined name 'applicantRe
+positoryProvider'. [C:\User
+s\preet\OneDrive\Documents\
+AntiGravity\App\Waypoint\wa
+ypoint\build\windows\x64\fl
+utter\flutter_assemble.vcxp
+roj]
+lib/features/applicant/data
+/applicant_controller.dart(
+18,47): error G13CCA0EB: 
+'MyApplicationsRef' isn't 
+a type. [C:\Users\preet\One
+Drive\Documents\AntiGravity
+\App\Waypoint\waypoint\buil
+d\windows\x64\flutter\flutt
+er_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+19,19): error GA0A3EB9C: 
+Undefined name 'applicantRe
+positoryProvider'. [C:\User
+s\preet\OneDrive\Documents\
+AntiGravity\App\Waypoint\wa
+ypoint\build\windows\x64\fl
+utter\flutter_assemble.vcxp
+roj]
+lib/features/applicant/data
+/applicant_controller.dart(
+29,5): error GD65BB4FA: 
+The setter 'state' isn't 
+defined for the type 'Appli
+cationSubmitController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+31,26): error GD65BB2B6: 
+The getter 'ref' isn't 
+defined for the type 'Appli
+cationSubmitController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+31,35): error GD65BB2B6: 
+The getter 'applicantReposi
+toryProvider' isn't 
+defined for the type 'Appli
+cationSubmitController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+34,22): error GD65BB2B6: 
+The getter 'ref' isn't 
+defined for the type 'Appli
+cationSubmitController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+34,31): error GD65BB2B6: 
+The getter 
+'authRepositoryProvider' 
+isn't defined for the type 
+'ApplicationSubmitControlle
+r'. [C:\Users\preet\OneDriv
+e\Documents\AntiGravity\App
+\Waypoint\waypoint\build\wi
+ndows\x64\flutter\flutter_a
+ssemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+48,7): error GD65BB2B6: 
+The getter 'ref' isn't 
+defined for the type 'Appli
+cationSubmitController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+48,22): error GD65BB2B6: 
+The getter 
+'myApplicationsProvider' 
+isn't defined for the type 
+'ApplicationSubmitControlle
+r'. [C:\Users\preet\OneDriv
+e\Documents\AntiGravity\App
+\Waypoint\waypoint\build\wi
+ndows\x64\flutter\flutter_a
+ssemble.vcxproj]
+lib/features/applicant/data
+/applicant_controller.dart(
+30,5): error GD65BB4FA: 
+The setter 'state' isn't 
+defined for the type 'Appli
+cationSubmitController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(10,39): error 
+GF024425F: 'AllJobsRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(11,19): error 
+GA0A3EB9C: Undefined name 
+'hrRepositoryProvider'. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(15,48): error 
+G37DF0AC2: 
+'JobApplicationsRef' isn't 
+a type. [C:\Users\preet\One
+Drive\Documents\AntiGravity
+\App\Waypoint\waypoint\buil
+d\windows\x64\flutter\flutt
+er_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(16,19): error 
+GA0A3EB9C: Undefined name 
+'hrRepositoryProvider'. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(20,47): error 
+G2483349C: 
+'AvailableInterviewersRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(21,19): error 
+GA0A3EB9C: Undefined name 
+'hrRepositoryProvider'. [C:
+\Users\preet\OneDrive\Docum
+ents\AntiGravity\App\Waypoi
+nt\waypoint\build\windows\x
+64\flutter\flutter_assemble
+.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(30,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 
+'JobCreationController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(32,13): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 
+'JobCreationController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(32,22): error 
+GD65BB2B6: The getter 
+'hrRepositoryProvider' 
+isn't defined for the type 
+'JobCreationController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(37,7): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 
+'JobCreationController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(37,22): error 
+GD65BB2B6: The getter 
+'allJobsProvider' isn't 
+defined for the type 
+'JobCreationController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(31,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 
+'JobCreationController'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(48,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 
+'JobUpdateController'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(50,13): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 
+'JobUpdateController'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(50,22): error 
+GD65BB2B6: The getter 
+'hrRepositoryProvider' 
+isn't defined for the type 
+'JobUpdateController'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(51,7): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 
+'JobUpdateController'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(51,22): error 
+GD65BB2B6: The getter 
+'allJobsProvider' isn't 
+defined for the type 
+'JobUpdateController'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(49,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 
+'JobUpdateController'. [C:\
+Users\preet\OneDrive\Docume
+nts\AntiGravity\App\Waypoin
+t\waypoint\build\windows\x6
+4\flutter\flutter_assemble.
+vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(62,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 'ApplicationUpdate
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(64,13): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 'ApplicationUpdate
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(64,22): error 
+GD65BB2B6: The getter 
+'hrRepositoryProvider' 
+isn't defined for the type 
+'ApplicationUpdateControlle
+r'. [C:\Users\preet\OneDriv
+e\Documents\AntiGravity\App
+\Waypoint\waypoint\build\wi
+ndows\x64\flutter\flutter_a
+ssemble.vcxproj]
+lib/features/hr/data/hr_con
+troller.dart(63,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 'ApplicationUpdate
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/hr/create_job_
+dialog.dart(20,20): error 
+GD65BB2B6: The getter 'jobC
+reationControllerProvider' 
+isn't defined for the type 
+'_CreateJobDialogState'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/hr/create_job_
+dialog.dart(31,33): error 
+GD65BB2B6: The getter 'jobC
+reationControllerProvider' 
+isn't defined for the type 
+'_CreateJobDialogState'. [C
+:\Users\preet\OneDrive\Docu
+ments\AntiGravity\App\Waypo
+int\waypoint\build\windows\
+x64\flutter\flutter_assembl
+e.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(9,43): error 
+GE664E52F: 
+'MyInterviewsRef' isn't a 
+type. [C:\Users\preet\OneDr
+ive\Documents\AntiGravity\A
+pp\Waypoint\waypoint\build\
+windows\x64\flutter\flutter
+_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(10,19): error 
+GA0A3EB9C: Undefined name '
+interviewerRepositoryProvid
+er'. [C:\Users\preet\OneDri
+ve\Documents\AntiGravity\Ap
+p\Waypoint\waypoint\build\w
+indows\x64\flutter\flutter_
+assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(14,47): error 
+G715AD86F: 
+'InterviewApplicationRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(15,19): error 
+GA0A3EB9C: Undefined name '
+interviewerRepositoryProvid
+er'. [C:\Users\preet\OneDri
+ve\Documents\AntiGravity\Ap
+p\Waypoint\waypoint\build\w
+indows\x64\flutter\flutter_
+assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(19,38): error 
+GE2132F28: 'InterviewFeedba
+ckStatusRef' isn't a type. 
+[C:\Users\preet\OneDrive\Do
+cuments\AntiGravity\App\Way
+point\waypoint\build\window
+s\x64\flutter\flutter_assem
+ble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(20,19): error 
+GA0A3EB9C: Undefined name '
+interviewerRepositoryProvid
+er'. [C:\Users\preet\OneDri
+ve\Documents\AntiGravity\Ap
+p\Waypoint\waypoint\build\w
+indows\x64\flutter\flutter_
+assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(33,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 'InterviewFeedback
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(35,13): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 'InterviewFeedback
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(35,22): error 
+GD65BB2B6: The getter 'inte
+rviewerRepositoryProvider' 
+isn't defined for the type 
+'InterviewFeedbackControlle
+r'. [C:\Users\preet\OneDriv
+e\Documents\AntiGravity\App
+\Waypoint\waypoint\build\wi
+ndows\x64\flutter\flutter_a
+ssemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(40,7): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 'InterviewFeedback
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(40,22): error 
+GD65BB2B6: The getter 
+'myInterviewsProvider' 
+isn't defined for the type 
+'InterviewFeedbackControlle
+r'. [C:\Users\preet\OneDriv
+e\Documents\AntiGravity\App
+\Waypoint\waypoint\build\wi
+ndows\x64\flutter\flutter_a
+ssemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(41,7): error 
+GD65BB2B6: The getter 
+'ref' isn't defined for 
+the type 'InterviewFeedback
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(41,22): error 
+G76A9B1F6: The method 'inte
+rviewFeedbackStatusProvider
+' isn't defined for the 
+type 'InterviewFeedbackCont
+roller'. [C:\Users\preet\On
+eDrive\Documents\AntiGravit
+y\App\Waypoint\waypoint\bui
+ld\windows\x64\flutter\flut
+ter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_controller.d
+art(34,5): error 
+GD65BB4FA: The setter 
+'state' isn't defined for 
+the type 'InterviewFeedback
+Controller'. [C:\Users\pree
+t\OneDrive\Documents\AntiGr
+avity\App\Waypoint\waypoint
+\build\windows\x64\flutter\
+flutter_assemble.vcxproj]
+lib/core/utils/supabase_pro
+vider.dart(7,31): error 
+G15FFBD15: 
+'SupabaseClientRef' isn't 
+a type. [C:\Users\preet\One
+Drive\Documents\AntiGravity
+\App\Waypoint\waypoint\buil
+d\windows\x64\flutter\flutt
+er_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_repository.dart(
+67,41): error G677E886A: 
+'ApplicantRepositoryRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/features/applicant/data
+/applicant_repository.dart(
+68,40): error GA0A3EB9C: 
+Undefined name 
+'supabaseClientProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/hr/data/hr_rep
+ository.dart(87,27): error 
+G1480F9D2: 
+'HrRepositoryRef' isn't a 
+type. [C:\Users\preet\OneDr
+ive\Documents\AntiGravity\A
+pp\Waypoint\waypoint\build\
+windows\x64\flutter\flutter
+_assemble.vcxproj]
+lib/features/hr/data/hr_rep
+ository.dart(88,33): error 
+GA0A3EB9C: Undefined name 
+'supabaseClientProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_repository.d
+art(69,45): error 
+GF76C5728: 
+'InterviewerRepositoryRef' 
+isn't a type. [C:\Users\pre
+et\OneDrive\Documents\AntiG
+ravity\App\Waypoint\waypoin
+t\build\windows\x64\flutter
+\flutter_assemble.vcxproj]
+lib/features/interviewer/da
+ta/interviewer_repository.d
+art(70,42): error 
+GA0A3EB9C: Undefined name 
+'supabaseClientProvider'. [
+C:\Users\preet\OneDrive\Doc
+uments\AntiGravity\App\Wayp
+oint\waypoint\build\windows
+\x64\flutter\flutter_assemb
+le.vcxproj]
+C:\Program Files 
+(x86)\Microsoft Visual Stud
+io\2019\BuildTools\MSBuild\
+Microsoft\VC\v160\Microsoft
+.CppCommon.targets(241,5): 
+error MSB8066: Custom 
+build for 'C:\Users\preet\O
+neDrive\Documents\AntiGravi
+ty\App\Waypoint\waypoint\bu
+ild\windows\x64\CMakeFiles\
+6f8ed7db992663ed4d85a89b1e9
+49616\flutter_windows.dll.r
+ule;C:\Users\preet\OneDrive
+\Documents\AntiGravity\App\
+Waypoint\waypoint\build\win
+dows\x64\CMakeFiles\e01f4a1
+a29a0a17802f64ff1814f5194\f
+lutter_assemble.rule' 
+exited with code 1. [C:\Use
+rs\preet\OneDrive\Documents
+\AntiGravity\App\Waypoint\w
+aypoint\build\windows\x64\f
+lutter\flutter_assemble.vcx
+proj]
+Building Windows application...                                    36.6s
+Build process failed.
